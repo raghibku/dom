@@ -1,0 +1,9 @@
+.a, .b ,.c{
+    height: 50px;
+    width: 50px;
+    margin: 30px;
+    border: 1px solid black;
+}
+.myAnimation{
+    background-color: aqua;
+}

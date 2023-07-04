@@ -1,0 +1,12 @@
+.myStyle{
+    font-size: 20px;
+    color:red;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+#myPara{
+    display: inline-block;
+}

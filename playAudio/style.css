@@ -1,0 +1,8 @@
+.myButton{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+}
+.myButton:hover{
+    background-color: pink;
+}
